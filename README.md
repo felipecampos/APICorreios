@@ -1,2 +1,7 @@
-# APICorreios
-Trabalho
+API Correios
+
+==========================
+
+##Requirements
+
+Composer.phar

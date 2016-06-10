@@ -1,0 +1,17 @@
+{
+	"name" : "ApiCorreios",
+	"authors" : [{
+			"name" : "Felipe Campos",
+			"email" : "camposfelipe025@gmail.com"
+		}
+	],
+	"autoload" : {
+		"psr-0" : {
+			"":"src"
+		}
+	},
+	"require" : {
+		"phpunit/phpunit" : "*"
+	}
+}
+
